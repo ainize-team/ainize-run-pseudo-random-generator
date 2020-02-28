@@ -1,4 +1,5 @@
 # Pseudo random generator
+[![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/ainize-team/ainize-run-pseudo-random-generator)
 It provides crypto-secure pseudo-random number.
 
 ## Docker build
