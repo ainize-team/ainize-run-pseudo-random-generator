@@ -15,7 +15,8 @@ Now the server is available at http://localhost.
 ## How to use it?
 It generates pseudo random number based on given bits and form.
 Bits can be 2^n (default 2048bits).
-(output)Form can be byte, hex, and number.
+(output)Form can be either byte or hex.
+Count gets how many numbers will be generated.
 ```
-localhost/?bits=${BITS}&form=${FORM}
+http://localhost/?bits=${BITS}&form=${FORM}&count=${HOW_MANY_NUMBERS}
 ```
